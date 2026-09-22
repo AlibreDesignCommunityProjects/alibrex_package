@@ -1,3 +1,7 @@
+[![PyPI version](https://img.shields.io/pypi/v/alibrex.svg)](https://pypi.org/project/alibrex/)
+[![Python versions](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://pypi.org/project/alibrex/)
+[![Downloads](https://static.pepy.tech/badge/alibrex)](https://pepy.tech/project/alibrex)
+
 # alibrex
 
 - `alibrex` is a Python package that lets you drive Alibre Design from ordinary Python, wrapping the AlibreX automation interface so it behaves like a normal module.
